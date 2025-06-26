@@ -1,4 +1,4 @@
-# Excel_Project_Coffee_Sales_Dashboard
+# Excel Project Coffee Sales Dashboard
 ### ☕ Introduction
 
 This project demonstrates how to build a dynamic sales dashboard in Excel using a sample dataset of coffee sales across different markets, products, and time periods. Designed to simulate a real-world business scenario, the dashboard helps users track trends, customer behavior, and country-level sales performance. The goal is to deliver insights that can guide marketing and product decisions through data storytelling.
